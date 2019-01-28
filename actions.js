@@ -1,3 +1,6 @@
 $( document ).ready(function() {
-    alert( "ready!" );
+
+    $( "#btnSaludar" ).click(function() {
+	  alert( "Hola mundo" );
+	});
 });
