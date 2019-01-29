@@ -13,3 +13,8 @@
 	border-style: solid;
 	border-color: black;
 }
+img{
+	width: 400px;
+	height: 300px;
+	border:	1;
+}
